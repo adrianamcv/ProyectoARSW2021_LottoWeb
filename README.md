@@ -1,14 +1,15 @@
 # ProyectoARSW2021_LottoWeb
 
-## Construido con
-
-* [Maven](https://maven.apache.org/) - Dependency Management
-* Git - Version Control  
-* [Heroku](https://www.heroku.com)
+Para la intermediación entre los transportistas y los usuarios mediante una aplicación móvil en Bogotá
 
 ## Quienes Somos?
+LOTTOWEB busca enlazar usuarios que buscan serviciosde mudanzas o acarreos detodo tipo con transportistasque cuentan con vehículos decarga que sastifagan dichanecesidad, logrando a su vezincrementar sus ingresos apartir de actividades pordemanda
+
 ## Objetivos
+- 
 ## Descripcion
+Las personas buscan una alternativa eficiente, segura y digital desolicitar el transporte de sus mudanzas o acarreos.
+Los transportistas que cuentan con camiones, camionetas, entreotros, necesitan generar ingresos con sus vehículos a partir deactividades por demanda. Actualmente estos servicios sólo lospueden realizar con familiares y conocidos, o en lugarescomerciales esperando que usuarios lleguen a ellos (Estoslugares generalmente son de seguridad crítica).
 
 ## Diagramas 
 ### Diagrama de casos de uso
