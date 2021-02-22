@@ -19,7 +19,7 @@
 ## Despliegue en Codacy
 
 
-## Autor
+## Autores
 
 * **Adriana Marcela Castañeda Velasquez** - [adrianamcv](https://github.com/adrianamcv)
 * **Brayan Santiago Buitrago Murillo** - [DonSantiagoS](https://github.com/DonSantiagoS)
