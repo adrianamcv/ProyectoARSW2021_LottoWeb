@@ -6,6 +6,19 @@
 * Git - Version Control  
 * [Heroku](https://www.heroku.com)
 
+## Quienes Somos?
+## Objetivos
+## Descripcion
+
+## Diagramas 
+### Diagrama de casos de uso
+
+### Diagrama de clases
+
+
+### Diagrama de componentes
+
+
 ## Taiga
 
 [![Taiga Backlog](https://images.assets-landingi.com/jvS0A3Tm24feIBqs/logo_horizontal.png)](https://tree.taiga.io/project/candres1019-historial-de-equipos-labinfo/backlog)
